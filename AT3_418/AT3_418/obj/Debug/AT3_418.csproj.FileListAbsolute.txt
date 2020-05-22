@@ -1,0 +1,10 @@
+F:\Tafe\Semester 2\ICTPRG418 Intermediate Prog Skills Fri CSharp\Assignments\Assignment 3\AT3_418\AT3_418\bin\Debug\AT3_418.exe.config
+F:\Tafe\Semester 2\ICTPRG418 Intermediate Prog Skills Fri CSharp\Assignments\Assignment 3\AT3_418\AT3_418\bin\Debug\AT3_418.exe
+F:\Tafe\Semester 2\ICTPRG418 Intermediate Prog Skills Fri CSharp\Assignments\Assignment 3\AT3_418\AT3_418\bin\Debug\AT3_418.pdb
+F:\Tafe\Semester 2\ICTPRG418 Intermediate Prog Skills Fri CSharp\Assignments\Assignment 3\AT3_418\AT3_418\obj\Debug\AT3_418.csprojAssemblyReference.cache
+F:\Tafe\Semester 2\ICTPRG418 Intermediate Prog Skills Fri CSharp\Assignments\Assignment 3\AT3_418\AT3_418\obj\Debug\AT3_418.Form1.resources
+F:\Tafe\Semester 2\ICTPRG418 Intermediate Prog Skills Fri CSharp\Assignments\Assignment 3\AT3_418\AT3_418\obj\Debug\AT3_418.Properties.Resources.resources
+F:\Tafe\Semester 2\ICTPRG418 Intermediate Prog Skills Fri CSharp\Assignments\Assignment 3\AT3_418\AT3_418\obj\Debug\AT3_418.csproj.GenerateResource.cache
+F:\Tafe\Semester 2\ICTPRG418 Intermediate Prog Skills Fri CSharp\Assignments\Assignment 3\AT3_418\AT3_418\obj\Debug\AT3_418.csproj.CoreCompileInputs.cache
+F:\Tafe\Semester 2\ICTPRG418 Intermediate Prog Skills Fri CSharp\Assignments\Assignment 3\AT3_418\AT3_418\obj\Debug\AT3_418.exe
+F:\Tafe\Semester 2\ICTPRG418 Intermediate Prog Skills Fri CSharp\Assignments\Assignment 3\AT3_418\AT3_418\obj\Debug\AT3_418.pdb
